@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: abstract it | Abstract IT's Blog]]></title>
+  <link href="http://abstractitptyltd.github.io/blog/categories/abstract-it/atom.xml" rel="self"/>
+  <link href="http://abstractitptyltd.github.io/"/>
+  <updated>2014-08-05T16:37:15+10:00</updated>
+  <id>http://abstractitptyltd.github.io/</id>
+  <author>
+    <name><![CDATA[Abstract IT Pty Ltd]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[5... 4... 3... 2... 1...]]></title>
+    <link href="http://abstractitptyltd.github.io/blog/2014/07/31/5-dot-dot-dot-4-dot-dot-dot-3-dot-dot-dot-2-dot-dot-dot-1-dot-dot-dot/"/>
+    <updated>2014-07-31T21:07:12+10:00</updated>
+    <id>http://abstractitptyltd.github.io/blog/2014/07/31/5-dot-dot-dot-4-dot-dot-dot-3-dot-dot-dot-2-dot-dot-dot-1-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>Well it&rsquo;s finally here.
+I have needed to do this for way too long and have always gotten distracted by how to achieve it instead of making it happen.
+The solution was to use a couple of things I have been using for years and combining those with some rather awesome software to turn those into a blog.</p>
+
+<p>How did I achieve this you ask?
+The first bit is <a href="http://daringfireball.net/projects/markdown/">markdown</a> which I have been using to doucument my puppet modules for a while.
+The other non obvious bit is <a href="https://pages.github.com/">GitHub Pages</a>.
+The final bit of awesome is <a href="http://octopress.org/">Octopress</a> which combines the bits and turns it into a blog.</p>
+
+<p>The inspiration for this was taken from an awesome <a href="http://garylarizza.com/blog/2013/01/17/managing-a-blog-is-insane/">blog entry</a> by <a href="http://garylarizza.com/">Garry Larizza</a> from Puppet Labs about his adventure into the lands of Octopress.
+So here I am and here I will likely stay because I can write my blogs in the same environment I write my code so it&rsquo;s more likely to happen more often.</p>
+
+<p>Thanks for reading. I will see you next time.</p>
+]]></content>
+  </entry>
+  
+</feed>
